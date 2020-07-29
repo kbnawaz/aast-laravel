@@ -9,7 +9,7 @@ go to project directory and run following commands in terminal:
 - php artisan config:cache
 - php artisan migrate
 - php artisan db:seed
-
+- php artisan serve
 
 #### Step 3
 Project url (localhost):
